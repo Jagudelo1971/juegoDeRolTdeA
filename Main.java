@@ -13,6 +13,7 @@ public class Main {
         arenaDeBatalla.add(new SemiDiosYeison());
 
         // ==========================================
+        arenaDeBatalla.add(new GuerreroCamilo());
         arenaDeBatalla.add(new MagoJairo());
         arenaDeBatalla.add(new TrollCarlos());
 
