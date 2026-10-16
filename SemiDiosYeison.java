@@ -1,7 +1,7 @@
 public class SemiDiosYeison extends Personaje {
 
     public SemiDiosYeison() {
-        super("Semidiós Yeison", 1000, 1000);
+        super("Semidiós Yeison", 250, 82);
     }
 
 
