@@ -12,6 +12,7 @@ public class Main {
         // ==========================================
         arenaDeBatalla.add(new MagoJairo());
         arenaDeBatalla.add(new TrollCarlos());
+	arenaDeBatalla.add(new AsesinoJuan());
 
         // ==========================================
         /*
