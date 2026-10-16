@@ -11,7 +11,11 @@ public class Main {
         // Ejemplo: arenaDeBatalla.add(new MagoJairo());
         // ==========================================
         arenaDeBatalla.add(new MagoJairo());
+        arenaDeBatalla.add(new HadaIsabella());
         arenaDeBatalla.add(new TrollCarlos());
+
+
+
 
         // ==========================================
         /*
