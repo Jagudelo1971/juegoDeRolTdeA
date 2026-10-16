@@ -9,6 +9,9 @@ public class Main {
         // ==========================================
         // ESTUDIANTES: Añadan su instancia aquí abajo
         // Ejemplo: arenaDeBatalla.add(new MagoJairo());
+
+        arenaDeBatalla.add(new SemiDiosYeison());
+
         // ==========================================
         arenaDeBatalla.add(new MagoJairo());
         arenaDeBatalla.add(new TrollCarlos());
